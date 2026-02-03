@@ -1,0 +1,15 @@
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\bin\Debug\net8.0\OnBaseRadicado.exe
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\bin\Debug\net8.0\OnBaseRadicado.deps.json
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\bin\Debug\net8.0\OnBaseRadicado.runtimeconfig.json
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\bin\Debug\net8.0\OnBaseRadicado.dll
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\bin\Debug\net8.0\OnBaseRadicado.pdb
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.AssemblyInfoInputs.cache
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.AssemblyInfo.cs
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.csproj.CoreCompileInputs.cache
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.sourcelink.json
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.dll
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\refint\OnBaseRadicado.dll
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.pdb
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\OnBaseRadicado.genruntimeconfig.cache
+E:\OneDrive\Descargas\pruebas-ecm-bpm\prueba2-onbase-csharp\OnBaseRadicado\obj\Debug\net8.0\ref\OnBaseRadicado.dll
