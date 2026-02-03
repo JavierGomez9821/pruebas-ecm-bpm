@@ -65,8 +65,10 @@ prueba2-onbase-csharp/
    └─ RadicadoService.cs   ← Debes crearlo
 ```
 
-## 📌 Nota
+### Ejecución
 
-Esta prueba simula el funcionamiento de OnBase sin la infraestructura real.  
-Concéntrate en la lógica, claridad y calidad del código.
+```
+cd prueba2-onbase-csharp
+dotnet build
+dotnet run --project OnBaseRadicado/OnBaseRadicado.csproj
 
