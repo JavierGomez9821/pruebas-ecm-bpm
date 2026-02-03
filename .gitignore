@@ -1,0 +1,11 @@
+# .NET
+**/bin/
+**/obj/
+
+# VS/IDE
+.vs/
+*.user
+*.suo
+
+# Maven
+**/target/
