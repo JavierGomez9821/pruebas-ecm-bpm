@@ -33,6 +33,14 @@ prueba3-alfresco-java/
 
 ---
 
+
+Desde la raíz del proyecto:
+
+```
+mvn clean package
+mvn exec:java
+```
+
 ## 📝 Entrega
 
 Puedes entregar:
